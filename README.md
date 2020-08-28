@@ -526,3 +526,4 @@ curl -XPOST 'http://localhost:9200/_snapshot/azurebackup/snapshot_1/_restore'
 
 [blob-storage and snapshots 2](https://stackoverflow.com/questions/54113059/elasticsearch-snapshot-creation-understanding-how-where-to-store-them-to)
 
+
